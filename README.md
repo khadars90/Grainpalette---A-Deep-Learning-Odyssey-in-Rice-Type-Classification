@@ -80,7 +80,7 @@ Output screenshots (included in `/screenshots/` folder or report PDF) demonstrat
 ## ✅ How to Run Locally
 
 ```bash
-git clone https://github.com/tharun1580/GrainPalette-A-Deep-Learning-Odyssey
+git clone https://github.com/khadars90/Grainpalette---A-Deep-Learning-Odyssey-in-Rice-Type-Classification
 cd Grain_Palette
 pip install -r requirements.txt
 python app.py
